@@ -1,3 +1,43 @@
+# 🚀 Databricks 14 Days AI Challenge  
+### Lakehouse, Apache Spark & AI-Ready Data Engineering
+
+This repository contains my **hands-on implementation** of the **Databricks 14 Days AI Challenge** — a structured learning initiative focused on mastering Databricks Lakehouse fundamentals, Apache Spark analytics, modern data engineering workflows, and preparation for AI/ML solutions.
+
+The objective of this project is to design **production-style data pipelines** on the Databricks Lakehouse platform and apply them to **large-scale e-commerce data ingestion, transformation, and analytics**.
+
+---
+
+## 📌 Challenge Overview
+
+Participants explore Databricks and Spark fundamentals, build scalable workflows, and apply advanced transformations while sharing progress publicly.  
+The challenge emphasizes **real-world learning through hands-on tasks** on the Databricks platform.
+
+### Key Focus Areas
+- Databricks Lakehouse architecture  
+- Apache Spark & PySpark fundamentals  
+- Data ingestion, transformation, and analytics  
+- Delta Lake for reliability and governance  
+- Preparation for downstream AI/ML applications  
+
+---
+
+## 🧰 Technology Stack
+
+| Component | Purpose |
+|---------|--------|
+| Databricks | Unified data & AI platform |
+| Apache Spark (PySpark) | Distributed data processing |
+| Delta Lake | ACID tables & schema enforcement |
+| Unity Catalog & Volumes | Governed storage & metadata |
+| SQL / Python | Notebook-based workflows |
+| GitHub | Version control & collaboration |
+| Power BI *(upcoming)* | Downstream analytics |
+| AI & ML Pipelines *(upcoming)* | Predictive modeling & features |
+
+---
+
+## 📂 Repository Structure
+
 
 ---
 
