@@ -36,11 +36,6 @@ The challenge emphasizes **real-world learning through hands-on tasks** on the D
 
 ---
 
-## 📂 Repository Structure
-
-
----
-
 ## 📊 Data Description
 
 This project works with **large multi-month e-commerce event datasets (~5 GB+)**, enabling realistic ingestion and transformation scenarios.  
@@ -61,7 +56,7 @@ Data is organized, processed, and validated using **Databricks Volumes and Delta
 
 ### ✔ Advanced Transformations
 - Complex joins (inner, outer, left, right)  
-- Window functions for rolling totals & ranking  
+- Window functions for running totals & ranking  
 - User-Defined Functions (UDFs)  
 
 ### ✔ Delta Lake & Governance
@@ -86,8 +81,9 @@ This challenge is organized and supported by:
 - **Codebasics** – Content guidance & materials  
 - **Indian Data Club** – Community host & orchestrator  
 
-Huge thanks for enabling structured, hands-on learning!
+Huge thanks for enabling a structured, hands-on, industry-focused learning experience.
 
 ---
 
 ## 📌 Official Challenge Tags
+
